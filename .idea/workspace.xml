@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L_gen.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/L_gen.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/map_v4.py" beforeDir="false" afterPath="$PROJECT_DIR$/map_v4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$L_gen.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,43 +48,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.FCMnotification.executor": "Run",
-    "Python.MAPin.executor": "Run",
-    "Python.MAPin_v2.executor": "Run",
-    "Python.NA.executor": "Run",
-    "Python.StTest.executor": "Run",
-    "Python.cooki.executor": "Run",
-    "Python.fakerr.executor": "Run",
-    "Python.fb_load.executor": "Run",
-    "Python.firefox.executor": "Run",
-    "Python.first.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.map.executor": "Run",
-    "Python.map_copy.executor": "Run",
-    "Python.map_v3.executor": "Run",
-    "Python.map_v4.executor": "Run",
-    "Python.newWatchSeries.executor": "Run",
-    "Python.openpy.executor": "Run",
-    "Python.origina.executor": "Run",
-    "Python.temp.executor": "Run",
-    "Python.yatra.executor": "Run",
-    "Python.zzzz.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PROJECTS/PycharmProjects/sele_again",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.FCMnotification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MAPin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MAPin_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cooki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fakerr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fb_load.executor&quot;: &quot;Run&quot;,
+    &quot;Python.firefox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_v4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newWatchSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.openpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.origina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yatra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zzzz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PROJECTS/PycharmProjects/sele_again&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PROJECTS\PycharmProjects\sele_again" />
@@ -290,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768146589311</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <option name="closed" value="true" />
+      <created>1768152624127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768152624127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
