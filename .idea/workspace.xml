@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a900e5d0-aa9b-4747-8248-a448ba7b22d0" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L_gen.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/L_gen.xlsx" afterDir="false" />
+    <list default="true" id="a900e5d0-aa9b-4747-8248-a448ba7b22d0" name="Changes" comment="aRRAYED">
       <change beforePath="$PROJECT_DIR$/map_v4.py" beforeDir="false" afterPath="$PROJECT_DIR$/map_v4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -297,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768152624127</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aRRAYED">
+      <option name="closed" value="true" />
+      <created>1768646087483</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768646087483</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +322,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="aRRAYED" />
+    <option name="LAST_COMMIT_MESSAGE" value="aRRAYED" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sele_again$firefox.coverage" NAME="firefox Coverage Results" MODIFIED="1711729414660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_selenium" />

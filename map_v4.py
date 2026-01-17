@@ -52,7 +52,7 @@ stealth(driver,
 
 driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
-mapList = ["Kurnool", "Tirupati+and+Vizianagaram", "Anantapur", ]
+mapList = ["Visakhapatnam", "Vijayawada", "Kurnool", "Tirupati+and+Vizianagaram", "Anantapur", ]
 
 for cafe in mapList:
     try:
